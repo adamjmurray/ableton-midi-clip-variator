@@ -1,3 +1,6 @@
+### NOTE: This project has been superseded by https://github.com/adamjmurray/ableton-midi-sculptor.
+That project is basically the "2.0" version of this one. No further development of this project will occur.
+
 # Ableton MIDI Clip Variator
 
 The **Ableton MIDI Clip Variator**
